@@ -17,6 +17,7 @@
     "hardhat": "^2.8.0"
   },
   "dependencies": {
+    "@alch/alchemy-web3": "^1.1.9",
     "dotenv": "^10.0.0"
   }
 }
